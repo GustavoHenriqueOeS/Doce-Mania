@@ -1,11 +1,10 @@
 # Doce-Mania
 
-A doce Mania é uma Confeiteria tradicional localizada em Ipanema no Rio de Janeiro.
+A doce Mania é uma Confeiteria tradicional localizada em Pinhais no Paraná.
 Nossa doceria é especializada em doces tradicionais, aqui você pode encontrar doces como bolos, pudins, bolinhos, geleias de variados sabores, bolachas caseiras e muito mais.
 
 # BOLOS INCRÍVEIS
 
-Perfeito para crianças, ou presentes para parentes. Fazemos personalizações.
 ![CONFEITARIA-DAMA-BOLOS](https://github.com/user-attachments/assets/cfd6b5e3-649b-4325-a2e9-ad9555c0291c) ![confeitaria-funcionalPrancheta-1-min](https://github.com/user-attachments/assets/5b3f58aa-c70c-4ecb-9273-b9834e4e3c1a)
 
 # ITENS PERSONALIZADOS
